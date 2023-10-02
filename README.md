@@ -1,15 +1,14 @@
-### Mike Ploythai ✌️
+### Hi, I'm Mike! ✌🏽
 
-> **Front-end software engineer and UI designer**
+I'm a software engineer specializing in front-end and UI/UX. I like to design and build web apps, play instruments, annoy my friends on Discord, and make YouTube videos on occasion.
 
 #### About me!
 
-- 🎓 B.S. computer science from **CSU Fullerton**
-- ⚡️ Currently lead front-end dev @ **Socials by Shelly**
-- 🪄 Previously design team lead @ **ACM at CSUF**, front-end dev @ **TuffyHacks**
+- 🎓 Recent first-generation computer science graduate
+- ⚡️ Currently lead front-end dev @ [**Socials by Shelly**](https://liushelly.com)
+- 🔥 Previously UI/UX lead @ **ACM at CSUF**, front-end dev @ **TuffyHacks**
 - ⚙️ My go-to technologies are [React, TypeScript, Tailwind, and more!](https://github.com/stars/mploythai/lists/my-go-to-technologies)
-- 🤘 Outside of tech, I like to play instruments, hang out with friends, lift at the gym, and [make YouTube videos sometimes](https://youtube.com/@mikeploythai)
 
 ***
 
-Get in touch 👉 [Email](mailto:hello@mikeploythai.com) | [LinkedIn](https://linkedin.com/in/mikeploythai)
+Get in touch 👉🏽 [**Email**](mailto:hello@mikeploythai.com)
