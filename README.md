@@ -5,10 +5,10 @@ I'm a software engineer specializing in front-end and UI/UX. I like to design an
 #### About me!
 
 - 🎓 Recent first-generation computer science graduate
-- ⚡️ Currently lead front-end dev @ [**Socials by Shelly**](https://liushelly.com)
-- 🔥 Previously UI/UX lead @ **ACM at CSUF**, front-end dev @ **TuffyHacks**
+- ⚡️ Currently lead front-end dev @ [Socials by Shelly](https://liushelly.com)
+- 🔥 Previously UI/UX lead @ ACM at CSUF, front-end dev @ TuffyHacks
 - ⚙️ My go-to technologies are [React, TypeScript, Tailwind, and more!](https://github.com/stars/mploythai/lists/my-go-to-technologies)
 
 ***
 
-[**Send me a message! 📨**](mailto:hello@mikeploythai.com)
+Wanna get in touch? [Send me a message! 📨](mailto:hello@mikeploythai.com)
