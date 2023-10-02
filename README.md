@@ -11,4 +11,4 @@ I'm a software engineer specializing in front-end and UI/UX. I like to design an
 
 ***
 
-Get in touch 👉🏽 [**Email**](mailto:hello@mikeploythai.com)
+[**Send me a message! 📨**](mailto:hello@mikeploythai.com)
