@@ -7,7 +7,7 @@ I'm a software engineer specializing in front-end and UI/UX. I like to design an
 - 🎓 Recent first-generation computer science graduate
 - ⚡️ Currently full-stack dev @ [Socials by Shelly](https://liushelly.com)
 - 🔥 Previously UI/UX lead @ ACM at CSUF, front-end dev @ TuffyHacks
-- ⚙️ My go-to technologies are [React, TypeScript, Tailwind, and more!](https://github.com/stars/mploythai/lists/my-go-to-technologies)
+- ⚙️ My go-to technologies are [React, TypeScript, Tailwind, and more!](https://github.com/stars/mikeploythai/lists/my-go-to-technologies)
 
 ***
 
