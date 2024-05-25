@@ -1,14 +1,12 @@
-### Hi, I'm Mike! ✌🏽
+### hi, i'm mike :)
 
-I'm a software engineer specializing in front-end and UI/UX. I like to design and build web apps, play instruments, annoy my friends on Discord, and make YouTube videos on occasion.
+this is where i push my projects whenever i remember to actually push my projects lol
 
-#### About me!
-
-- 🎓 Recent first-generation computer science graduate
-- ⚡️ Currently full-stack dev @ [Socials by Shelly](https://liushelly.com)
-- 🔥 Previously UI/UX lead @ ACM at CSUF, front-end dev @ TuffyHacks
-- ⚙️ My go-to technologies are [React, TypeScript, Tailwind, and more!](https://github.com/stars/mikeploythai/lists/my-go-to-technologies)
+* 💼 ux engineer in the healthcare industry
+* ⚡️ average react/typescript/tailwind enjoyer
+* 🎬 part-time content creator on [youtube](https://youtube.com/@mikeploythai)
+* 🎓 bachelor's in computer science!
 
 ***
 
-Wanna get in touch? [Send me a message! 📨](mailto:hello@mikeploythai.com)
+check out my [projects](https://github.com/mikeploythai?tab=repositories) and drink lots of water 🌊
