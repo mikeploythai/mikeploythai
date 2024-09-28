@@ -19,7 +19,7 @@
 </p>
 
 <p align="right">
-  <i>Oh right, I make SWE content and vlogs on <strong><a href="https://youtube.com/@mikeploythai">YouTube</a></strong> when I have time&nbsp;&nbsp;&nbsp;🎞️</i>
+  <i>Oh right, I make SWE content and vlogs on <strong><a href="https://youtube.com/@mikeploythai?sub_confirmation=1">YouTube</a></strong> when I have time&nbsp;&nbsp;&nbsp;🎞️</i>
 </p>
 
 ***
