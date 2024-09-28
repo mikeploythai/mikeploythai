@@ -22,6 +22,10 @@
   <i>Oh right, I make SWE content and vlogs on <strong><a href="https://youtube.com/@mikeploythai?sub_confirmation=1">YouTube</a></strong> when I have time&nbsp;&nbsp;&nbsp;🎞️</i>
 </p>
 
+<p align="left">
+  <i>✨&nbsp;&nbsp;&nbsp;I also like cooking, playing instruments, and supporting OSS :D</i>
+</p>
+
 ***
 
 <div align="center">
