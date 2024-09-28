@@ -7,7 +7,7 @@
 ***
 
 <p align="left">
-  <i>☀️&nbsp;&nbsp;&nbsp;.NET/C#/Bootstrap developer during the day</i>
+  <i>☀️&nbsp;&nbsp;&nbsp;.NET/C#/Bootstrap developer during the day...</i>
 </p>
 
 <p align="right">
@@ -15,15 +15,11 @@
 </p>
 
 <p align="left">
-  <i>❓&nbsp;&nbsp;&nbsp;What else do people put here</i>
+  <i>🎞️&nbsp;&nbsp;&nbsp;When I have the time, I make SWE content and vlogs on <strong><a href="https://youtube.com/@mikeploythai?sub_confirmation=1">YouTube</a></strong></i>
 </p>
 
 <p align="right">
-  <i>Oh right, I make SWE content and vlogs on <strong><a href="https://youtube.com/@mikeploythai?sub_confirmation=1">YouTube</a></strong> when I have time&nbsp;&nbsp;&nbsp;🎞️</i>
-</p>
-
-<p align="left">
-  <i>✨&nbsp;&nbsp;&nbsp;I also like cooking, playing instruments, and supporting OSS :D</i>
+  <i>I ❤️ building, supporting open source, playing instruments, and cooking&nbsp;&nbsp;&nbsp;✨</i>
 </p>
 
 ***
