@@ -1,36 +1,17 @@
-<h3 align="center">🎸&nbsp;&nbsp;&nbsp;Hi, I'm Mike&nbsp;&nbsp;&nbsp;🎬</h3>
+### ✌🏼 Hi, I'm Mike
 
-<div align="center">
-  <code>&lsaquo; Full-Stack Software Engineer &rsaquo;</code>
-</div>
+I'm a full-stack software engineer working in the healthcare industry!
 
-***
+###### ABOUT ME
 
-<p align="left">
-  <i>☀️&nbsp;&nbsp;&nbsp;.NET/C#/Bootstrap developer during the day...</i>
-</p>
-
-<p align="right">
-  <i>React/TypeScript/Tailwind developer any other time lol&nbsp;&nbsp;&nbsp;🌙</i>
-</p>
-
-<p align="left">
-  <i>🎞️&nbsp;&nbsp;&nbsp;When I have the time, I make SWE content and vlogs on <strong><a href="https://youtube.com/@mikeploythai?sub_confirmation=1">YouTube</a></strong></i>
-</p>
-
-<p align="right">
-  <i>I ❤️ building, supporting open source, playing instruments, and cooking&nbsp;&nbsp;&nbsp;✨</i>
-</p>
+- 💼&nbsp;&nbsp;.NET/C#/Bootstrap developer at work...
+- ⚡️&nbsp;&nbsp;React/TypeScript/Tailwind developer any other time lol
+- 🎬&nbsp;&nbsp;When I have the time, I make SWE content and vlogs on [**YouTube**](https://youtube.com/@mikeploythai?sub_confirmation=1)!
+- 😄&nbsp;&nbsp;I like building, supporting open source, playing instruments, and cooking
 
 ***
 
-<div align="center">
-  <h4>Click below for recursion</h4>
-
-  <p>
-    &xrarr;&nbsp;&nbsp;&nbsp;<strong><a href="https://mikeploythai.com">mikeploythai.com</a></strong>&nbsp;&nbsp;&nbsp;&xlarr;
-  </p>
-</div>
+My company uses Azure, so pls excuse the low contribution activity 😅
 
 <!--
 **mikeploythai/mikeploythai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
