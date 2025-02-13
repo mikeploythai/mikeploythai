@@ -1,17 +1,11 @@
-### ✌🏼 Hi, I'm Mike
+### Mike Ploythai ✌🏼
 
-I'm a full-stack software engineer working in the healthcare industry!
-
-###### ABOUT ME
-
-- 💼&nbsp;&nbsp;.NET/C#/Bootstrap developer at work...
-- ⚡️&nbsp;&nbsp;React/TypeScript/Tailwind developer any other time lol
-- 🎬&nbsp;&nbsp;When I have the time, I make SWE content and vlogs on [**YouTube**](https://youtube.com/@mikeploythai?sub_confirmation=1)!
-- 😄&nbsp;&nbsp;I like building, supporting open source, playing instruments, and cooking
+Full-Stack Software Engineer in Healthcare. **Big** React/TypeScript/Tailwind enjoyer. .NET/C# are cool too I guess.
 
 ***
 
-My company uses Azure, so pls excuse the low contribution activity 😅
+My company uses Azure, so don't mind the _extremely_ low contribution activity 😅
+
 
 <!--
 **mikeploythai/mikeploythai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
