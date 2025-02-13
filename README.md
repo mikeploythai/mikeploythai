@@ -1,6 +1,8 @@
 ### Mike Ploythai ✌🏼
 
-Full-Stack Software Engineer in Healthcare. **Big** React/TypeScript/Tailwind enjoyer. .NET/C# are cool too I guess.
+> Full-Stack Software Engineer in Healthcare.
+
+I'm a .NET Framework/C# dev during the week, and a Next.js/TypeScript dev any other time!
 
 ***
 
